@@ -1,7 +1,15 @@
 # tapukadastro
 Tapu Kadastro üzerinden Taşınmaz no kullanarak haritayı taşınmazda gösterme
 ## Kullanımı
+```
+#install
+composer require ihyme/tapukadastro:dev-master
+``` 
+
 ```php
+include_once 'vendor/autoload.php';
+use Ihyme\TapuKadastro\Harita;
 $harita = new Harita();
-echo $harita->haritadaGoster("---Taşınmaz-id---"); 
+echo $harita->haritadaGoster("106478412");
+
  ```

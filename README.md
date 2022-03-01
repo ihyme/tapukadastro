@@ -3,5 +3,5 @@ Tapu Kadastro üzerinden Taşınmaz no kullanarak haritayı taşınmazda göster
 ## Kullanımı
 ```php
 $harita = new Harita();
- echo $harita->haritadaGoster("---Taşınmaz-id---"); 
+echo $harita->haritadaGoster("---Taşınmaz-id---"); 
  ```

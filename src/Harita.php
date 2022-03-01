@@ -1,4 +1,5 @@
 <?php
+namespace Ihyme\TapuKadastro;
 class Harita {
 
 	function haritadaGoster($tasinmaz_no)

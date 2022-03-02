@@ -7,6 +7,7 @@ composer require ihyme/tapukadastro:dev-master
 ``` 
 
 ```php
+<?php
 include_once 'vendor/autoload.php';
 use Ihyme\TapuKadastro\Harita;
 $harita = new Harita();

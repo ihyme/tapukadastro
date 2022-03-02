@@ -3,7 +3,7 @@ Tapu Kadastro üzerinden Taşınmaz no kullanarak haritayı taşınmazda göster
 ## Kullanımı
 ```
 #install
-composer require ihyme/tapukadastro:dev-master
+composer require ihyme/tapukadastro:dev-main
 ``` 
 
 ```php

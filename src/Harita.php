@@ -99,7 +99,7 @@ class Harita {
                 <div id="map" style=" "></div>
                 </body>
                 </html>
-                EOL;
+EOL;
 
 
     }

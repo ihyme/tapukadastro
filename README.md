@@ -10,6 +10,6 @@ composer require ihyme/tapukadastro:dev-master
 include_once 'vendor/autoload.php';
 use Ihyme\TapuKadastro\Harita;
 $harita = new Harita();
-echo $harita->haritadaGoster("106478412");
+echo $harita->haritadaGoster("__TASINMAZ_NO__");
 
  ```
